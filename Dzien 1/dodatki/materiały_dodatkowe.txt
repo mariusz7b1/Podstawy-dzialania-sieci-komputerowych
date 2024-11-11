@@ -1,0 +1,14 @@
+Podstawowa konfiguracja Przełącznika i Routera
+https://youtu.be/lqI5ZapkT1Y
+https://youtu.be/Xgx2Sitmb2A
+
+
+WAZNE(kluczowe)
+Adresacja IP cz1: 	https://youtu.be/pyhWQK5u0nY
+Adresacja IP cz2: 	https://youtu.be/LFmNUi1XGYY
+
+
+Warstwa fizyczna PT:	https://youtu.be/7QenOVhgKFk
+--------------------------------------
+Protokoły: 		https://youtu.be/iy5GLT9MZBY
+Warstwa fizyczna:	https://youtu.be/97ShlR6KH_c
