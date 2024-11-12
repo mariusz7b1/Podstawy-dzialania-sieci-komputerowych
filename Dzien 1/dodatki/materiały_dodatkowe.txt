@@ -12,3 +12,7 @@ Warstwa fizyczna PT:	https://youtu.be/7QenOVhgKFk
 --------------------------------------
 Protokoły: 		https://youtu.be/iy5GLT9MZBY
 Warstwa fizyczna:	https://youtu.be/97ShlR6KH_c
+
+
+Maska /31 została oficjalnie dopuszczona przez standardy sieciowe w dokumencie RFC 3021, 
+który zatwierdził użycie adresów IPv4 z maską /31 dla połączeń punkt-punkt.
