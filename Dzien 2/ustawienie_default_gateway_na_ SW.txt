@@ -1,2 +1,0 @@
-np
-Switch(config)#ip default-gateway 172.19.79.254

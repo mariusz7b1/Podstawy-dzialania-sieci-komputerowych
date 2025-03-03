@@ -1,7 +1,0 @@
-DHCP		https://youtu.be/wc7-vqLuK7w	
-DHCP Cisco 	https://youtu.be/LFwGd5MzEUE
-DHCP WIN 	https://youtu.be/Ur7qDqv5EVM	
-----------------
-HSRP 		https://youtu.be/CXOrWDNJfOQ
-IPv6		https://youtu.be/wc7-vqLuK7w
-ACL		https://youtu.be/MXeetAf4W0Q
