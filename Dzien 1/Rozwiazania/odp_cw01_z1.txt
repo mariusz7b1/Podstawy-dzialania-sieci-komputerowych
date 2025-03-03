@@ -1,0 +1,41 @@
+enable
+configure terminal
+
+!punkt a
+hostname R1
+
+!punkt b
+no ip domain-lookup
+
+!punkt c
+line console 0
+logging synchronous
+end
+
+!punkt d,e
+show ip interface brief
+
+!punkt f,g
+configure terminal
+interface g0/0
+do show ip interface brief 
+end
+
+!punkt g
+show running-config
+
+
+
+!punkt h
+write
+show flash:
+show startup-config
+
+!punkt i
+reload
+
+!punkt j
+enable
+erase startup-config
+show flash:
+show startup-config

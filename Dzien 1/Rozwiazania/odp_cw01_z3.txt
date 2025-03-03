@@ -1,0 +1,38 @@
+! ROUTER R1
+enable
+configure terminal
+hostname R1
+no ip domain-lookup
+
+username admin secret cisco1
+line console 0
+login local
+exit
+enable secret cisco2
+
+interface GigabitEthernet0/0
+ip address 192.168.0.254 255.255.255.0
+no shutdown
+end
+write
+
+
+! Switch SW1
+enable
+configure terminal
+hostname SW1
+no ip domain-lookup
+
+username admin secret cisco1
+line console 0
+login local
+exit
+enable secret cisco2
+
+interface vlan1
+ip address 192.168.0.253 255.255.255.0
+no shutdown
+end
+write
+
+
