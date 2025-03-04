@@ -1,0 +1,12 @@
+enable
+configure terminal
+hostname R1
+interface g0/0.40
+encapsulation dot1q 40
+ip address 10.10.9.254 255.255.254.0
+interface g0/0.60
+encapsulation dot1q 60
+ip address 10.10.11.254 255.255.254.0
+interface g0/0
+no ip address
+no shutdown

@@ -1,0 +1,20 @@
+enable
+configure terminal
+hostname SW1
+ip routing
+!
+interface FastEthernet0/1
+switchport access vlan 40
+switchport mode access
+!
+interface FastEthernet0/2
+switchport access vlan 60
+switchport mode access
+!
+interface Vlan40
+ip address 10.10.9.254 255.255.254.0
+no shutdown
+!
+interface Vlan60
+ip address 10.10.11.254 255.255.254.0
+no shutdown
