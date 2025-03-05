@@ -1,0 +1,23 @@
+!OP
+enable
+configure terminal
+ip route 172.16.8.0  255.255.252.0  192.168.4.2
+ip route 172.16.14.0  255.255.254.0  192.168.4.9
+end
+write
+
+!KAT
+enable
+configure terminal
+ip route 172.16.8.0  255.255.252.0  192.168.4.5
+ip route 172.16.12.0  255.255.254.0  192.168.4.10
+end
+write
+
+!WA
+enable
+configure terminal
+ip route 172.16.12.0  255.255.254.0  192.168.4.1
+ip route 172.16.14.0  255.255.254.0  192.168.4.6
+end
+write
