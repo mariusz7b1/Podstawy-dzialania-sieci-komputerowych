@@ -1,6 +1,0 @@
-Adresacja IP cz3	https://youtu.be/Sfven9yU_Z8
-Warstwa Łącza		https://youtu.be/gxASLh8fjVo
-WireShark		https://youtu.be/uwfJFqgGAZ4
-
-VLAN cz1 Koncepcja	https://youtu.be/ysOYg2cuDP4
-VLAN cz3 Praktyka	https://youtu.be/hL1qVwvH1TI
